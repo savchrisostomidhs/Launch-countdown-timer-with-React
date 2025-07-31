@@ -1,0 +1,13 @@
+ul {
+    display: flex;
+    gap: 35px;
+    list-style-type: none;
+}
+
+li {
+    cursor: pointer;
+}
+
+li:hover path {
+    fill: hsl(345, 95%, 68%);
+}
